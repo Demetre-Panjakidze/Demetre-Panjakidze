@@ -1,7 +1,6 @@
 - 👋 Hello, World! 
-- 👀 I’m @Demetre-Panjakidze and I’m interested in making front-end web aplications and websites.
-- 🌱 I’m currently practicing my HTML, CSS and JS skills.
-- 📫 you can reach me by my e-mail: demetrepanjakidze1@gmail.com
+- 👀 I’m @Demetre-Panjakidze and I’m a mobile developer using Flutter and FlutterFlow
+- 📫 you can reach me by e-mail: demetrepanjakidze1@gmail.com
 
 <!---
 Demetre-Panjakidze/Demetre-Panjakidze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
