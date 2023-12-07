@@ -1,5 +1,5 @@
 - 👋 Hello, World! 
-- 👀 I’m @Demetre-Panjakidze and I’m a mobile developer using Flutter and FlutterFlow
+- 👀 I’m @Demetre-Panjakidze and I’m a mobile developer using SwiftUI, Flutter and FlutterFlow
 - 📫 you can reach me by e-mail: demetrepanjakidze1@gmail.com
 
 <!---
